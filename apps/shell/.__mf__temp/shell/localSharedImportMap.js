@@ -87,7 +87,7 @@
                   entryGlobalName: "todoApp",
                   name: "todoApp",
                   type: "module",
-                  entry: "http://localhost:3001/remoteEntry.js",
+                  entry: "https://super-app-chi-eosin.vercel.app/remoteEntry.js",
                   shareScope: "default",
                 }
           ,
@@ -95,7 +95,7 @@
                   entryGlobalName: "notesApp",
                   name: "notesApp",
                   type: "module",
-                  entry: "http://localhost:3002/remoteEntry.js",
+                  entry: "https://super-app-notes.vercel.app/remoteEntry.js",
                   shareScope: "default",
                 }
           ,
@@ -103,7 +103,7 @@
                   entryGlobalName: "weatherApp",
                   name: "weatherApp",
                   type: "module",
-                  entry: "http://localhost:3003/remoteEntry.js",
+                  entry: "https://super-app-weather.vercel.app/remoteEntry.js",
                   shareScope: "default",
                 }
           
